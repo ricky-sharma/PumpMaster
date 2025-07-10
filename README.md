@@ -12,6 +12,7 @@
 * 🧩 Uses **react-data-grid-lite** for tabular UI
 * 🔒 Secured endpoints with mock JWT-based **\[Authorize]** attributes
 * 📡 API communication via **Axios**
+* ✅ Vite for fast build & HMR
 * 🧰 No external database — uses mock in-memory data
 
 ---
@@ -27,6 +28,7 @@
 * 📬 Axios
 * 🧪 Jest, @testing-library/react
 * 💻 Node.js v20.19.0+
+* ✅ Vite v7.0.3
 
 ### Backend
 
