@@ -96,7 +96,7 @@ const PumpsList = () => {
             </div>
 
 
-            <div className="w-full max-w-7xl bg-white rounded-lg py-6">
+            <div className="w-full max-w-7xl py-6">
                 <DataGrid
                     id="pumps-grid"
                     columns={columns}

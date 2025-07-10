@@ -33,3 +33,4 @@ build-backup
 _site
 *.csproj.user
 obj
+bin
