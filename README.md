@@ -2,7 +2,7 @@
 
 **PumpMaster** is a full-stack application designed to manage concrete pump operations, including pump tracking, alerts, and reporting. It leverages modern web technologies to provide a fast, responsive, and maintainable solution.
 
----
+<br>
 
 ## ✨ Features
 
@@ -15,7 +15,13 @@
 * ✅ Vite for fast build & HMR
 * 🧰 No external database — uses mock in-memory data
 
----
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dbe6a5e4-15e3-4362-82f2-8116ffb62f0a" alt="PumpMaster Demo GIF" width="100%" />
+</p>
+
+<br>
 
 ## 🛠 Tech Stack
 
