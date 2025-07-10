@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+.r-d-g-lt-comp.theme-1 div.globalSearchDiv {
+    display: none !important;
+}
+
+#pumps-grid.r-d-g-lt-comp .theme-1,
+#pumps-grid.r-d-g-lt-comp.theme-1 {
+    padding: 8px !important;
+}
+
+#pumps-grid.r-d-g-lt-comp .theme-1-h {
+    padding: 0 !important;
+}
+
+#pumps-grid.r-d-g-lt-comp tr.gridHeader {
+    background-color: var(--color-gray-50) !important;
+}
+
+    #pumps-grid.r-d-g-lt-comp tr.gridHeader th {
+        color: #1f3b4d !important;
+    }
+#pumps-grid.r-d-g-lt-comp div.headerText {
+    white-space: normal !important;
+}
+
+#pumps-grid.r-d-g-lt-comp .icon-div {
+    height: 26px !important;
+    width: 26px !important;
+}
+
+#pumps-grid.r-d-g-lt-comp i.icon-sort:after {
+    border-top: 5px solid #1f3b4d;
+    bottom: 6px;
+}
+
+#pumps-grid.r-d-g-lt-comp i.icon-sort:before {
+    border-bottom: 5px solid #1f3b4d;
+    bottom: 6px;
+}
+
+#pumps-grid.r-d-g-lt-comp i.icon-sort:after,
+#pumps-grid.r-d-g-lt-comp i.icon-sort:before {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+}
+
+#pumps-grid.r-d-g-lt-comp i.icon-sort-down {
+    border-top: 5px solid #1f3b4d;
+}
+
+#pumps-grid.r-d-g-lt-comp i.icon-sort-up {
+    border-bottom: 5px solid #1f3b4d;
+}
+
+#pumps-grid.r-d-g-lt-comp i.icon-sort-down,
+#pumps-grid.r-d-g-lt-comp i.icon-sort-up {
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+}
+
+    @media (min-width: 1200px) {
+        #pumps-grid.r-d-g-lt-comp div.headerText {
+            font-size: 18px !important;
+        }
+    }
+
+.custom-column {
+    font-weight: 500;
+}
